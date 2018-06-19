@@ -1,0 +1,22 @@
+{
+  "name": "react-native-picker-area-json",
+  "version": "1.0.0",
+  "description": "the data source for react-native-picker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/youngjuning/react-native-picker-area-json.git"
+  },
+  "keywords": [
+    "react-native"
+  ],
+  "author": "youngjuning",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/youngjuning/react-native-picker-area-json/issues"
+  },
+  "homepage": "https://github.com/youngjuning/react-native-picker-area-json#readme"
+}
